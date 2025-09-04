@@ -1,0 +1,4 @@
+Group,ATP_Fluorescence,ROS_Fluorescence,Membrane_Potential,Performance_Score
+Mutant,0.0,1.0,0.0,0.0
+Synthetic MitoTALEN,1.0,0.0,1.0,1.0
+Wild-Type,0.6275956807168245,0.2699526369836419,0.5070721892308943,0.5998766205823591
